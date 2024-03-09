@@ -1,6 +1,6 @@
 {
   "name": "arduino-cli-runtime",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Prebuilt Arduino CLI binaries for macOS, Linux, and Windows",
   "bin": {
     "arduino-cli": "bin/arduino-cli"
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/like/arduino-cli-runtime.git"
+    "url": "git+https://github.com/like/arduino-cli-runtime.git"
   },
   "author": "1337",
   "license": "Apache-2.0",
