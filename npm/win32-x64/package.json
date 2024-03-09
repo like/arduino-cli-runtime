@@ -1,9 +1,9 @@
 {
-  "name": "arduino-cli-runtime-linux-x64",
+  "name": "arduino-cli-runtime-win32-x64",
   "version": "1.0.0",
-  "description": "The Linux Intel 64-bit binary for Arduino CLI",
+  "description": "The Windows Intel 64-bit binary for Arduino CLI",
   "bin": {
-    "arduino-cli": "bin/arduino-cli"
+    "arduino-cli": "bin/arduino-cli.exe"
   },
   "files": [
     "bin"
@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/like/arduino-cli-runtime#readme",
   "os": [
-    "linux"
+    "win32"
   ],
   "cpu": [
     "x64"
