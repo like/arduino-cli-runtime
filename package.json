@@ -10,9 +10,6 @@
     "bin",
     "lib"
   ],
-  "scripts": {
-    "test": "standard"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/like/arduino-cli-runtime.git"
@@ -23,9 +20,6 @@
     "url": "https://github.com/like/arduino-cli-runtime/issues"
   },
   "homepage": "https://github.com/like/arduino-cli-runtime#readme",
-  "devDependencies": {
-    "standard": "^17.1.0"
-  },
   "optionalDependencies": {
     "arduino-cli-runtime-linux-x64": "1.0.0"
   },
