@@ -16,8 +16,10 @@ arduino-cli version
 
 Prerequisites:
 
-https://go.dev/doc/install
-https://taskfile.dev/#/installation
+- https://go.dev/doc/install
+- https://taskfile.dev/#/installation
+
+Compile:
 
 ```sh
 mkdir build
