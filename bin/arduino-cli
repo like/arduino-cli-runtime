@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-require('../lib/spawn')('arduino-cli-runtime', __filename)
+require('spawn-runtime')('arduino-cli-runtime', __filename)

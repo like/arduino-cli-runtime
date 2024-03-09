@@ -28,5 +28,8 @@
   },
   "optionalDependencies": {
     "arduino-cli-runtime-linux-x64": "1.0.0"
+  },
+  "dependencies": {
+    "spawn-runtime": "^1.0.0"
   }
 }
