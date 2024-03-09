@@ -1,0 +1,24 @@
+{
+  "name": "arduino-cli-runtime-linux-x64",
+  "version": "1.0.0",
+  "description": "The Linux Intel 64-bit binary for Arduino CLI",
+  "bin": {
+    "arduino-cli": "bin/arduino-cli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/like/arduino-cli-runtime.git"
+  },
+  "author": "1337",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/like/arduino-cli-runtime/issues"
+  },
+  "homepage": "https://github.com/like/arduino-cli-runtime#readme",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "x64"
+  ]
+}
