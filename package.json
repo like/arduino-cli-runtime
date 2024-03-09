@@ -5,6 +5,11 @@
   "bin": {
     "arduino-cli": "bin/arduino-cli"
   },
+  "files": [
+    "NOTICE",
+    "bin",
+    "lib"
+  ],
   "scripts": {
     "test": "standard"
   },
