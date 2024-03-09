@@ -5,6 +5,10 @@
   "bin": {
     "arduino-cli": "bin/arduino-cli"
   },
+  "files": [
+    "NOTICE",
+    "bin"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/like/arduino-cli-runtime.git"
