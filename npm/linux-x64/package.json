@@ -1,6 +1,6 @@
 {
   "name": "arduino-cli-runtime-linux-x64",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "The Linux Intel 64-bit binary for Arduino CLI",
   "bin": {
     "arduino-cli": "bin/arduino-cli"
