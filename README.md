@@ -40,4 +40,4 @@ Finally, copy the compiled binary into `npm/linux-x64/bin/...`.
 
 ## License
 
-Apache-2.0
+MIT
