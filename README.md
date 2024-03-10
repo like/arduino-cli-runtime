@@ -22,18 +22,21 @@ Prerequisites:
 Compile:
 
 ```sh
-mkdir build
-cd build
-git clone --depth=1 git@github.com:arduino/arduino-cli.git
+git clone --depth=1 https://github.com/arduino/arduino-cli.git
 cd arduino-cli
 task build
-rm -rf .git
-
-# E.g. "linux-x64"
-model=$(node -e "console.log(process.platform + '-' + process.arch)")
-
-cp ./arduino-cli ../../npm/$model/bin
 ```
+
+Know your runtime:
+
+```sh
+node -e "console.log(process.platform + '-' + process.arch)"
+# E.g. "linux-x64"
+```
+
+Create a folder with your runtime name like `npm/linux-x64`, and adjust the package file.
+
+Finally, copy the compiled binary into `npm/linux-x64/bin/...`.
 
 ## License
 
