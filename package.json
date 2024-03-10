@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/like/arduino-cli-runtime#readme",
   "optionalDependencies": {
+    "arduino-cli-runtime-darwin-arm64": "1.0.0",
     "arduino-cli-runtime-linux-x64": "1.0.1",
     "arduino-cli-runtime-win32-x64": "1.0.0"
   },
