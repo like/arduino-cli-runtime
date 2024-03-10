@@ -6,7 +6,6 @@
     "arduino-cli": "bin/arduino-cli"
   },
   "files": [
-    "NOTICE",
     "bin",
     "lib"
   ],
@@ -15,7 +14,7 @@
     "url": "git+https://github.com/like/arduino-cli-runtime.git"
   },
   "author": "1337",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/like/arduino-cli-runtime/issues"
   },
