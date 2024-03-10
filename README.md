@@ -14,6 +14,10 @@ arduino-cli version
 
 ## New builds
 
+<details>
+<summary>How to make a new build</summary>
+<br>
+
 Prerequisites:
 
 - https://go.dev/doc/install
@@ -37,6 +41,7 @@ node -e "console.log(process.platform + '-' + process.arch)"
 Create a folder with your runtime name like `npm/linux-x64`, and adjust the package file.
 
 Finally, copy the compiled binary into `npm/linux-x64/bin/...`.
+</details>
 
 ## License
 
