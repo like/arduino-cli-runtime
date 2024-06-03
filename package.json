@@ -2,6 +2,7 @@
   "name": "arduino-cli-runtime",
   "version": "1.1.0",
   "description": "Prebuilt Arduino CLI binaries for macOS, Linux, and Windows",
+  "main": "index.js",
   "bin": {
     "arduino-cli": "bin/arduino-cli"
   },
